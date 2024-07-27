@@ -1,1 +1,1 @@
-# Toru959-Stock-Price-Visualization-App
+#Stock-Price-Visualization-App
